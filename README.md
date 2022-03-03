@@ -56,4 +56,4 @@ for result in resp:
 
 # Other
 * [Pypi](https://pypi.org/project/idork/1.0.0/)
-* [MIT Licence](https://github.com/w4ne/iDork/blob/main/LICENCE)
+* [MIT Licence](https://github.com/w4ne/iDork/blob/main/LICENSE)
