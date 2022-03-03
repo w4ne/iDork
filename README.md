@@ -43,7 +43,7 @@ dork.search("Cooking Recipes", results=10)
 ```python
 from idork import Google
 
-dork = Google(proxy_url=None)
+dork = Google("http://127.0.0.1")
 resp = dork.search("inurl: \"robots.txt\" filetype:txt", lang="en", results=100)
 
 for result in resp:
